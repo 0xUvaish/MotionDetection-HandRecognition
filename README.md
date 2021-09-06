@@ -13,8 +13,17 @@ These instructions will help you in starting the project once you have cloned it
 - `apt-get install python3-pandas`.
 - `pip3 install imutils`.
 - `pip3 install sklearn`.
-- Now run `python3 motion_time_detection.py` to run the first sscript.
+- Now run `python3 motion_time_detection.py` to run the first script.
 - And run `python3 hand_recognition.py` to run the second script.
+
+
+## Description 
+- The overall methodology consists of three parts.
+- First aims to propose methods for detection of moving objects.
+- Second part is in continuation with the first and aims to record time of motion of objects.
+- Third, the last part consists of developing methods for recognizing hand fingers and record the counting of fingers.
+- The complete project is spans over 2 scripts, first `motion_time_detection.py` and second `python3 hand_recognition.py`.
+- Scripts will continue to run until user interruption.
 
 ## Developer
 * **Mohd Uvaish Siddiqui** 
