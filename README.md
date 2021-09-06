@@ -24,7 +24,7 @@ These instructions will help you in starting the project once you have cloned it
 - Third, the last part consists of developing methods for recognizing hand fingers and record the counting of fingers.
 - The complete project is spans over 2 scripts, first `motion_time_detection.py` and second `python3 hand_recognition.py`.
 - Scripts will continue to run until user interruption.
-- A research paper is also prepared to publish (in process currently).
+- A research paper is also prepared to publish (in process currently). [See Paper](xxx)
 
 ## Developer
 * **Mohd Uvaish Siddiqui** 
