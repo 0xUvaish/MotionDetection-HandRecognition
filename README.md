@@ -8,7 +8,7 @@ These instructions will help you in starting the project once you have cloned it
 * In order to start the project, you need to have python3 and pip3 present in your PC.
 
 ## Setup
-* Now open the terminal in the folder where you have cloned this repo and run the following commands.
+* Open the terminal in the folder where you have cloned this repo and run the following commands.
 - `apt-get install python3-opencv`.
 - `apt-get install python3-pandas`.
 - `pip3 install imutils`.
